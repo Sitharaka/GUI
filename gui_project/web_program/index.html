@@ -33,16 +33,41 @@
       
       <dialog id="addTaskDialog">
         <h2>Add New Tasks</h2>
-        <p>Not implemented yet.</p>
+        <p>
+          <select id="daySelector1" name="Days">
+             <option value="Monday">Monday</option>
+             <option value="Tuesday">Tuesday</option>
+             <option value="Wednesday">Wednesday</option>
+             <option value="Thursday">Thursday</option>
+             <option value="Friday">Friday</option>
+             <option value="Saturday">Saturday</option>
+             <option value="Sunday">Sunday</option>
+          </select>
+        </p>
+        <p>
+          <input type="text" id="taskInput" value="add task">
+        </p>
         <form method="dialog">
+          <button>Add</button>
           <button>Close</button>
         </form>
       </dialog>
 
       <dialog id="removeTaskDialog">
         <h2>Remove Tasks</h2>
-        <p>Not implemented yet.</p>
+        <p>
+          <select id="daySelector2" name="Days">
+            <option value="Monday">Monday</option>
+            <option value="Tuesday">Tuesday</option>
+            <option value="Wednesday">Wednesday</option>
+            <option value="Thursday">Thursday</option>
+            <option value="Friday">Friday</option>
+            <option value="Saturday">Saturday</option>
+            <option value="Sunday">Sunday</option>
+         </select>
+        </p>
         <form method="dialog">
+          <button>Remove</button>
           <button>Close</button>
         </form>
       </dialog>

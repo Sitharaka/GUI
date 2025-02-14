@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wpf_program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+430ac9e6bd9f18aaad4b313e8f95bfbef1c4ca5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a17ab41567831f7297d6af1938bcc0b4906f3ddd")]
 [assembly: System.Reflection.AssemblyProductAttribute("wpf_program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wpf_program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
