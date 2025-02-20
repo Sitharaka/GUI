@@ -1,5 +1,6 @@
-<? php
+<?php
    include("database.php");
+   include("addTask.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
