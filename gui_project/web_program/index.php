@@ -37,8 +37,9 @@
       
       <dialog id="addTaskDialog">
         <h2>Add New Tasks</h2>
+        <form id="addTaskForm" method="post" action="">
         <p>
-          <select id="daySelector1" name="Days">
+          <select id="daySelector1" name="day">
              <option value="Monday">Monday</option>
              <option value="Tuesday">Tuesday</option>
              <option value="Wednesday">Wednesday</option>
@@ -49,11 +50,10 @@
           </select>
         </p>
         <p>
-          <input type="text" id="taskInput" value="add task">
+          <input type="text" id="taskInput" name="task" value="add task">
         </p>
-        <form method="dialog">
-          <button>Add</button>
-          <button>Close</button>
+        <button id="submitButton">Add</button>
+        <button id="closeButton1">Close</button>
         </form>
       </dialog>
 
