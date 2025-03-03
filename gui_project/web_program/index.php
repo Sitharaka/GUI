@@ -1,6 +1,44 @@
 <?php
-   include("database.php");
-   include("addTask.php");
+    require_once"database.php";
+
+    try {
+       $query = "SELECT * FROM tasks";
+       $stmt = $pdo->prepare($query);
+       $stmt->execute();
+       $tasks = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+       $tasksByDay = [
+        'Monday' => [],
+        'Tuesday' => [],
+        'Wednesday' => [],
+        'Thursday' => [],
+        'Friday' => [],
+        'Saturday' => [],
+        'Sunday' => []
+    ];
+
+    foreach ($tasks as $task) {
+      if (!empty($task['Monday'])) $tasksByDay['Monday'][] = $task['Monday'];
+      if (!empty($task['Tuesday'])) $tasksByDay['Tuesday'][] = $task['Tuesday'];
+      if (!empty($task['Wednesday'])) $tasksByDay['Wednesday'][] = $task['Wednesday'];
+      if (!empty($task['Thursday'])) $tasksByDay['Thursday'][] = $task['Thursday'];
+      if (!empty($task['Friday'])) $tasksByDay['Friday'][] = $task['Friday'];
+      if (!empty($task['Saturday'])) $tasksByDay['Saturday'][] = $task['Saturday'];
+      if (!empty($task['Sunday'])) $tasksByDay['Sunday'][] = $task['Sunday'];
+    }
+
+    $tasksByDay['Monday'] = array_unique($tasksByDay['Monday']);
+    $tasksByDay['Tuesday'] = array_unique($tasksByDay['Tuesday']);
+    $tasksByDay['Wednesday'] = array_unique($tasksByDay['Wednesday']);
+    $tasksByDay['Thursday'] = array_unique($tasksByDay['Thursday']);
+    $tasksByDay['Friday'] = array_unique($tasksByDay['Friday']);
+    $tasksByDay['Saturday'] = array_unique($tasksByDay['Saturday']);
+    $tasksByDay['Sunday'] = array_unique($tasksByDay['Sunday']);
+    
+    } catch (PDOException $e) {
+      echo "Error fetching tasks: " . $e->getMessage();
+       $tasksByDay = ['Monday' => [], 'Tuesday' => [], 'Wednesday' => [], 'Thursday' => [], 'Friday' => [], 'Saturday' => [], 'Sunday' => []];
+    }
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -25,19 +63,28 @@
 
       <table class="table1">
         <tr>
-        <th>Monday</th>
-        <th>Tuestday</th>
-        <th>Wednesday</th>
-        <th>Thursday</th>
-        <th>Friday</th>
-        <th>Saturday</th>
-        <th>Sunday</th>
+          <th>Monday</th>
+          <th>Tuestday</th>
+          <th>Wednesday</th>
+          <th>Thursday</th>
+          <th>Friday</th>
+          <th>Saturday</th>
+          <th>Sunday</th>
         </tr>
-      </table>
+        <tr>
+          <td><?php echo implode('<br>', array_map('htmlspecialchars', $tasksByDay['Monday'])); ?></td>
+          <td><?php echo implode('<br>', array_map('htmlspecialchars', $tasksByDay['Tuesday'])); ?></td>
+          <td><?php echo implode('<br>', array_map('htmlspecialchars', $tasksByDay['Wednesday'])); ?></td>
+          <td><?php echo implode('<br>', array_map('htmlspecialchars', $tasksByDay['Thursday'])); ?></td>
+          <td><?php echo implode('<br>', array_map('htmlspecialchars', $tasksByDay['Friday'])); ?></td>
+          <td><?php echo implode('<br>', array_map('htmlspecialchars', $tasksByDay['Saturday'])); ?></td>
+          <td><?php echo implode('<br>', array_map('htmlspecialchars', $tasksByDay['Sunday'])); ?></td>
+        </tr>
+      </table>   
       
       <dialog id="addTaskDialog">
         <h2>Add New Tasks</h2>
-        <form id="addTaskForm" method="post" action="">
+        <form action="addTask.php" id="addTaskForm" method="post" action="">
         <p>
           <select id="daySelector1" name="day">
              <option value="Monday">Monday</option>

@@ -1,22 +1,17 @@
 <?php
 
- $db_server = "localhost";
- $db_user = "root";
- $db_password = "";
- $db_name = "task_manager";
- $connection = "";
+$dsn = "mysql:host=localhost;dbname=task_manager";
+$dbusername = "root";
+$dbpassword = "";
 
- $connection = mysqli_connect( $db_server, $db_user, $db_password, $db_name);
-
- if ($connection)
- {
-    echo"Connected!";
- }
-else
+try
 {
-    echo"Can not connect!";
+	$pdo = new PDO($dsn, $dbusername, $dbpassword);
+	$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 }
-
-
+catch(PDOException $e)
+{
+	echo "connection failed: " .$e->getMessage();
+}
 
 ?>

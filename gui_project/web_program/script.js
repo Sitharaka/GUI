@@ -15,7 +15,7 @@ closeAddDialogVar.onclick = function()
     addDialogVar.close();
 }
 
-addFormVar.onsubmit = function(event)
+/*addFormVar.onsubmit = function(event)
 {
     event.preventDefault();
 
@@ -33,7 +33,7 @@ addFormVar.onsubmit = function(event)
          })
     
 
-}
+}*/
 
 
 
