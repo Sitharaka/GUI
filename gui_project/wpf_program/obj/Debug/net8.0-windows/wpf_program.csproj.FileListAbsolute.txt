@@ -1,0 +1,2 @@
+C:\Users\sitha\OneDrive\Documents\vs_code_repository\gui_project\wpf_program\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sitha\OneDrive\Documents\vs_code_repository\gui_project\wpf_program\obj\Debug\net8.0-windows\wpf_program_MarkupCompile.cache
