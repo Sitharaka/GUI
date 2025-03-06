@@ -97,7 +97,7 @@
           </select>
         </p>
         <p>
-          <input type="text" id="taskInput" name="task" value="add task">
+          <input type="text" id="taskInput" name="task" value="">
         </p>
         <button id="submitButton">Add</button>
         <button id="closeButton1">Close</button>
