@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\addtaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\addtaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\thursdaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\thursdaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\addtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\addtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\sundaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\sundaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\mondaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mondaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\saturdaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\saturdaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\fridaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\fridaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\wednesdaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\wednesdaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\tuesdaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tuesdaytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\removetaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\removetaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|c:\\users\\asd\\source\\repos\\wpfapp1\\wpfapp1\\removetaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9F9E8-7D6D-41D3-A67F-AA9F93EEF942}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\removetaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\Tasks.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Tasks.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\Tasks.cs",
+              "RelativeToolTip": "WpfApp1\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:58:15.377Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwGMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:21:04.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T05:21:43.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTaskWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\AddTaskWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AddTaskWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\AddTaskWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\AddTaskWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:22:45.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThursdayTask.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\ThursdayTask.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ThursdayTask.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\ThursdayTask.cs",
+              "RelativeToolTip": "WpfApp1\\ThursdayTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:15:48.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTaskWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\AddTaskWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\AddTaskWindow.xaml",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\AddTaskWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\AddTaskWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T09:56:38.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FridayTask.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\FridayTask.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\FridayTask.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\FridayTask.cs",
+              "RelativeToolTip": "WpfApp1\\FridayTask.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:28:09.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaturdayTask.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\SaturdayTask.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\SaturdayTask.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\SaturdayTask.cs",
+              "RelativeToolTip": "WpfApp1\\SaturdayTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:05:39.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SundayTask.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\SundayTask.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\SundayTask.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\SundayTask.cs",
+              "RelativeToolTip": "WpfApp1\\SundayTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:15:10.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MondayTask.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\MondayTask.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MondayTask.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\MondayTask.cs",
+              "RelativeToolTip": "WpfApp1\\MondayTask.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:57:49.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TuesdayTask.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\TuesdayTask.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\TuesdayTask.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\TuesdayTask.cs",
+              "RelativeToolTip": "WpfApp1\\TuesdayTask.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:44:41.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WednesdayTask.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\WednesdayTask.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\WednesdayTask.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\WednesdayTask.cs",
+              "RelativeToolTip": "WpfApp1\\WednesdayTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:04:17.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RemoveTaskWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\RemoveTaskWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\RemoveTaskWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\RemoveTaskWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\RemoveTaskWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:27:15.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RemoveTaskWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\RemoveTaskWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\RemoveTaskWindow.xaml",
+              "ToolTip": "C:\\Users\\ASD\\source\\repos\\WpfApp1\\WpfApp1\\RemoveTaskWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\RemoveTaskWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T09:57:16.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

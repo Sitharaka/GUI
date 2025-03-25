@@ -7,7 +7,12 @@ var closeAddDialogVar = document.getElementById("closeButon1");
 var removeButtonVar = document.getElementById("removeButton");
 var removeDialogVar = document.getElementById("removeTaskDialog");
 
-addButtonVar.onclick = function()
+console.log("Add Button:", addButtonVar);
+console.log("Add Dialog:", addDialogVar);
+console.log("Remove Button:", removeButtonVar);
+console.log("Remove Task:", removeDialogVar);
+
+addButtonVatr.onclick = function()
 {
     addDialogVar.showModal();
 }
@@ -16,9 +21,7 @@ closeAddDialogVar.onclick = function()
 {
     addDialogVar.close();
 }
-
-
-removeDialogVar.onclick = function()
+removeButtonVar.onclick = function()
 {
     removeDialogVar.showModal();
 }
